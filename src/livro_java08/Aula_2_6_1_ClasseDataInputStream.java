@@ -11,7 +11,7 @@ public class Aula_2_6_1_ClasseDataInputStream {
 			
 		DataInputStream dado;
 		
-		
+		// teste
 
 	}
 
